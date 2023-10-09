@@ -4,7 +4,7 @@ Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
 
 ## Habilidades
 
-- Linguagens de Programação:
+- Linguagens:
 - ![Java](https://img.shields.io/badge/Java-purple)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 - ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange)
