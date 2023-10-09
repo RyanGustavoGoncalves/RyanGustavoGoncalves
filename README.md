@@ -5,6 +5,7 @@ Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
 ## Habilidades
 
 - Linguagens:
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 - ![Java](https://img.shields.io/badge/Java-purple)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 - ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange)
