@@ -13,6 +13,7 @@ Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
   <br/>
   <img src="./icons/icons8-mysql-48.png" alt="Mysql">
   <img src="./icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" alt="React">
+  <img src="./icons/icons8-vite-48.png" alt="Vite">
   </div>
     
 # Projetos Destacados
