@@ -2,14 +2,20 @@
 
 Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
 
-## Habilidades
-
-- Linguagens:
-- ![Java](https://img.shields.io/badge/Java-purple)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-- ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange)
-
-## Projetos Destacados
+# Linguagens e tecnologias:
+  <div>
+  <img src="./icons/icons8-java-48.png" alt="Java">
+  <img src="./icons/icons8-javascript-48.png" alt="JavaScript">
+  <img src="./icons/icons8-html-48.png" alt="Html">
+  <img src="./icons/icons8-css-48.png" alt="Css">
+  <img src="./icons/icons8-spring-boot-48.png" alt="Spring-Boot">
+  <img src="./icons/icons8-mongodb-a-cross-platform-document-oriented-database-program-48.png" alt="MongoDB"
+  <br/>
+  <img src="./icons/icons8-mysql-48.png" alt="Mysql">
+  <img src="./icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" alt="React">
+  </div>
+    
+# Projetos Destacados
 
 - User_registration_system (https://github.com/RyanGustavoGoncalves/User_registration_system.git): Este repositório contém um sistema completo de cadastro de usuários desenvolvido em Java e JavaScript..
 - Portfolio_expo-io (https://github.com/RyanGustavoGoncalves/Portfolio_expo-io.git): Pequenas aplicações desenvolvidas usando a plataforma Expo.io. O portfólio em si foi construído utilizando HTML, CSS e JavaScript..
