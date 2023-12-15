@@ -3,18 +3,7 @@
 Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
 
 # Linguagens e tecnologias:
-  <div>
-  <img src="./icons/icons8-java-48.png" alt="Java">
-  <img src="./icons/icons8-javascript-48.png" alt="JavaScript">
-  <img src="./icons/icons8-html-48.png" alt="Html">
-  <img src="./icons/icons8-css-48.png" alt="Css">
-  <img src="./icons/icons8-spring-boot-48.png" alt="Spring-Boot">
-  <img src="./icons/icons8-mongodb-a-cross-platform-document-oriented-database-program-48.png" alt="MongoDB"
-  <br/>
-  <img src="./icons/icons8-mysql-48.png" alt="Mysql">
-  <img src="./icons/icons8-react-a-javascript-library-for-building-user-interfaces-48.png" alt="React">
-  <img src="./icons/icons8-vite-48.png" alt="Vite">
-  </div>
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,html,css,vite,react,mongo,mysql,bootstrap,maven)](https://skillicons.dev)
     
 # Projetos Destacados
 
