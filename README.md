@@ -9,6 +9,7 @@ Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=cloverApiRest&theme=radical)](https://github.com/RyanGustavoGoncalves/cloverApiRest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=EaseRequest&theme=radical)](https://github.com/RyanGustavoGoncalves/EaseRequest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=AppMusica_Expo.io&theme=radical)](https://github.com/RyanGustavoGoncalves/AppMusica_Expo.io)
 
 <div style="display: flex">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=RyanGustavoGoncalves&show_icons=true&theme=radical" />
