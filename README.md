@@ -7,10 +7,8 @@ Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
     
 # Projetos Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=cloverApiRest&theme=radical
-)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/RyanGustavoGoncalves/cloverApiRest))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=EaseRequest&theme=radical
-)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/RyanGustavoGoncalves/cloverApiRest](https://github.com/RyanGustavoGoncalves/EaseRequest)))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=cloverApiRest&theme=radical)](https://github.com/RyanGustavoGoncalves/cloverApiRest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=EaseRequest&theme=radical)](https://github.com/RyanGustavoGoncalves/EaseRequest)
 
 <div style="display: flex">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=RyanGustavoGoncalves&show_icons=true&theme=radical" />
