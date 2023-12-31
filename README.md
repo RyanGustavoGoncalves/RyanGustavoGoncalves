@@ -20,4 +20,3 @@ Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
 ## Contate-me
 
 - 📧 E-mail: ryan.ggoncalves09@gmail.com
-- 💬 LinkedIn: www.linkedin.com/in/ryan-gustavo-97275226b
