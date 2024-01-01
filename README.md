@@ -3,7 +3,7 @@
 Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
 
 # Linguagens e tecnologias:
- [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,html,css,vite,react,mongo,mysql,bootstrap,maven)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,html,css,vite,react,mongo,mysql,bootstrap,maven,postman)](https://skillicons.dev)
     
 # Projetos Destacados
 
