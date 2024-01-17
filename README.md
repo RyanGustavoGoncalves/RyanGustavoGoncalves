@@ -1,15 +1,17 @@
-# Sobre Mim
+# About Me 🚀
 
-Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
+Hello, I'm Ryan Gustavo Gonçalves, and this is my GitHub space where I share my development journey.
 
-# Linguagens e tecnologias:
- [![My Skills](https://skillicons.dev/icons?i=java,python,django,spring,javascript,html,css,vite,react,mongo,mysql,bootstrap,maven,postman)](https://skillicons.dev)
-    
-# Projetos Destacados
+# Languages and Technologies 🛠️
+[![My Skills](https://skillicons.dev/icons?i=java,python,django,spring,javascript,html,css,vite,react,mongo,mysql,bootstrap,maven,postman)](https://skillicons.dev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=cloverApiRest&theme=radical)](https://github.com/RyanGustavoGoncalves/cloverApiRest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=EaseRequest&theme=radical)](https://github.com/RyanGustavoGoncalves/EaseRequest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=AppMusica_Expo.io&theme=radical)](https://github.com/RyanGustavoGoncalves/AppMusica_Expo.io)
+# Featured Projects 🌟
+
+[![Clover API Rest](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=cloverApiRest&theme=radical)](https://github.com/RyanGustavoGoncalves/cloverApiRest)
+[![EaseRequest](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=EaseRequest&theme=radical)](https://github.com/RyanGustavoGoncalves/EaseRequest)
+[![Music App - Expo.io](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=AppMusica_Expo.io&theme=radical)](https://github.com/RyanGustavoGoncalves/AppMusica_Expo.io)
+
+# GitHub Stats 📊
 
 <div style="display: flex">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=RyanGustavoGoncalves&show_icons=true&theme=radical" />
@@ -18,6 +20,8 @@ Olá, sou Ryan Gustavo Gonçalves e este é meu perfil no GitHub.
   </a>
 </div>
 
-## Contate-me
+## Contact Me 📬
 
-- 📧 E-mail: ryan.ggoncalves09@gmail.com
+- ✉️ Email: ryan.ggoncalves09@gmail.com
+
+Let's build something amazing together! 👨‍💻✨
