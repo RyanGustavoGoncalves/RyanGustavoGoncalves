@@ -3,7 +3,7 @@
 Hello, I'm Ryan Gustavo Gonçalves, and this is my GitHub space where I share my development journey.
 
 # Languages and Technologies 🛠️
-[![My Skills](https://skillicons.dev/icons?i=java,python,django,spring,javascript,html,css,vite,react,mongo,mysql,bootstrap,maven,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,django,spring,javascript,typescript,html,css,vite,react,mongo,mysql,bootstrap,maven,postman)](https://skillicons.dev)
 
 # Featured Projects 🌟
 
