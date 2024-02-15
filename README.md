@@ -7,7 +7,7 @@ Hello, I'm Ryan Gustavo Gonçalves, and this is my GitHub space where I share my
 
 # Featured Projects 🌟
 
-[![Clover API Rest](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=cloverApiRest&theme=radical)](https://github.com/RyanGustavoGoncalves/cloverApiRest)
+[![requestEase-desktop](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=requestEase-desktop&theme=radical)](https://github.com/RyanGustavoGoncalves/requestEase-desktop)
 [![EaseRequest](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=EaseRequest&theme=radical)](https://github.com/RyanGustavoGoncalves/EaseRequest)
 [![Music App - Expo.io](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=AppMusica_Expo.io&theme=radical)](https://github.com/RyanGustavoGoncalves/AppMusica_Expo.io)
 
