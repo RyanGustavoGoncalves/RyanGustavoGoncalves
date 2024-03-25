@@ -3,8 +3,7 @@
 Hello, I'm Ryan Gustavo Gonçalves, and this is my GitHub space where I share my development journey.
 
 # Languages and Technologies 🛠️
-[![My Skills](https://skillicons.dev/icons?i=java,spring,gcp,javascript,typescript,html,css,tailwind,vite,react,electron,mongo,mysql,bootstrap,maven,postman)](https://skillicons.dev)
-
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,html,css,tailwind,vite,react,electron,mongo,mysql,bootstrap,maven,postman)]([[https://skillicons.dev]])
 # Featured Projects 🌟
 
 [![requestEase-desktop](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=requestEase-desktop&theme=radical)](https://github.com/RyanGustavoGoncalves/requestEase-desktop)
