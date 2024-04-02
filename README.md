@@ -1,6 +1,6 @@
 # About Me 🚀
 
-Hello, I'm Ryan Gustavo Gonçalves, and this is my GitHub space where I share my development journey.
+ Hello, I'm Ryan Gustavo Gonçalves, and this is my GitHub space where I share my development journey.
 
 # Languages and Technologies 🛠️
   [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,html,css,tailwind,vite,react,electron,mongo,mysql,bootstrap,maven,postman)]([[https://skillicons.dev]])
@@ -21,6 +21,7 @@ Hello, I'm Ryan Gustavo Gonçalves, and this is my GitHub space where I share my
 
 ## Contact Me 📬
 
-- ✉️ Email: ryan.ggoncalves09@gmail.com
+> [!NOTE]
+> ✉️ Email: ryan.ggoncalves09@gmail.com
 
 Let's build something amazing together! 👨‍💻✨
