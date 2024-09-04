@@ -3,7 +3,7 @@
  Hello, I'm Ryan Gustavo Gonçalves, and this is my GitHub space where I share my development journey.
 
 # Languages and Technologies 🛠️
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,html,css,tailwind,vite,react,angular,electron,mongo,mysql,bootstrap,maven,postman,docker,prisma,sqlite,express)]([[https://skillicons.dev]])
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,python,html,css,tailwind,vite,react,angular,electron,mongo,mysql,bootstrap,maven,postman,docker,prisma,sqlite,express)]([[https://skillicons.dev]])
 # Featured Projects 🌟
 
 [![requestEase-desktop](https://github-readme-stats.vercel.app/api/pin/?username=RyanGustavoGoncalves&repo=requestEase-desktop&theme=radical)](https://github.com/RyanGustavoGoncalves/requestEase-desktop)
